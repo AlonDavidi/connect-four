@@ -1,7 +1,7 @@
 # connect-four
-For running connect four run this command:
+For running connect four run this commands:
 
-`composer install`
-`php src/applicaton.php play`
+1. `composer install`
+2. `php src/applicaton.php play`
 
 
